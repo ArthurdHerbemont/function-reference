@@ -1,5 +1,5 @@
-Spreadsheet Functions
----------------------
+Spreadsheet Functions (deprecated)
+-----------------------------------
 
 .. warning:: 
   
